@@ -1,0 +1,14 @@
+# Ignorar archivos de Eclipse
+.settings/
+.classpath
+.project
+
+# Ignorar binarios compilados
+bin/
+
+# Ignorar archivos de IntelliJ
+.idea/
+*.iml
+
+# Ignorar archivos de sistema
+.DS_Store
